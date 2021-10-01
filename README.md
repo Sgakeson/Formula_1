@@ -1,2 +1,2 @@
 # Formula_1
-Analysis of Formula 1 Races
+Examining the performance of Lewis Hamilton, and assesing the ability to fit a linear model to Lewis Hamilton's performance.
